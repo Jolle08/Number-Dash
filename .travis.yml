@@ -6,4 +6,4 @@ python:
   - "3.3"
   - "3.4"
   - "nightly"
-script: main
+script: python main.py
